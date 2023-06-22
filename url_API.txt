@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/samuelperezcode/json-catalogo-series/main/db.json
+///assets///
+https://raw.githubusercontent.com/samuelperezcode/json-catalogo-series/main/assets/1.jpg

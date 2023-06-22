@@ -1,0 +1,134 @@
+{
+  "series": [
+  {
+    "id": 1,
+    "name": "The 100",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/1.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"seasons": "2001",
+	"rate": 8.1,
+	"description": "alguna"
+  },
+  {
+    "id": 2,
+    "name": "Peaky Blinders",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/2.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": "2001",
+	"year": "2001",
+	"rate": 8.3,
+	"description": "alguna"
+  },
+  {
+    "id": 3,
+    "name": "The Walking Dead",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/3.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 11,
+	"year": "2001",
+	"rate": 7.6,
+	"description": "alguna"
+  },
+  {
+    "id": 4,
+    "name": "Friends",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/4.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 10,
+	"year": "2001",
+	"rate": 9.3,
+	"description": "alguna"
+  },
+  {
+    "id": 5,
+    "name": "Game of Thrones",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/5.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 9,
+	"year": "2001",
+	"rate": 9.4,
+	"description": "alguna"
+  },
+  {
+    "id": 6,
+    "name": "Stranger Things",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/6.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 4,
+	"year": "2001",
+	"rate": 9.1,
+	"description": "alguna"
+  },
+  {
+    "id": 7,
+    "name": "American Horror Story",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/7.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 10,
+	"year": "2001",
+	"rate": 9.0,
+	"description": "alguna"
+  },
+  {
+    "id": 8,
+    "name": "Breaking Bad",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/8.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 5,
+	"year": "2001",
+	"rate": 8.5,
+	"description": "alguna"
+  },
+  {
+    "id": 9,
+    "name": "DC's Legends of Tomorrow",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/9.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 7,
+	"year": "2001",
+	"rate": 7.3,
+	"description": "alguna"
+  },
+  {
+    "id": 10,
+    "name": "The Flash",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/10.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+    "seasons": 7,
+	"year": "2001",
+	"rate": 7.8,
+	"description": "alguna"
+  }
+  
+   ]
+}
