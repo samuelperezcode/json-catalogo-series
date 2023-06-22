@@ -4,7 +4,7 @@
     "id": 1,
     "name": "The 100",
     "img": "https://raw.githubusercontent.com/samuelperezcode/json-catalogo-series/master/assets/1.jpg",
-	"seasons": "10",
+	"seasons": 10,
 	"rate": 8.1,
 	"description": "alguna"
   },
